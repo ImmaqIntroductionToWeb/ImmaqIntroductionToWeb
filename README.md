@@ -8,9 +8,7 @@
 - 🔭 I’m currently working on **Java & Web development Projects**
 
 - 👯 I’m looking to collaborate on **Frontend & Backend Projects**
-
-- 🤝 I’m looking for help with **Python & JS**
-
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/ImmaqIntroductionToWeb](https://github.com/ImmaqIntroductionToWeb)
 
 - 📫 How to reach me **sincane05@gmail.com**
